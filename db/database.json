@@ -1,0 +1,34 @@
+[
+    {
+        "marca": "Gigabyte",
+        "modelo": "Rtx 3050",
+        "capacidad": "8gb",
+        "url": "https://www.qloud.ar/SITES/IMG/scp-hardstore-10-2020/181_03-03-2023-02-03-23-concepto-9612373.png",
+        "precio": 175000
+    },
+
+
+    {
+        "marca": "Asrock",
+        "modelo": "Rx 6700s",
+        "capacidad": "12gb",
+        "url": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%205700%20XT%20Challenger%20D%208G%20OC(M1).png",
+        "precio": 180000
+    },
+
+    {
+        "marca":"Zotac",
+        "modelo":"Rtx 4070Ti",
+        "capacidad":"12gb",
+        "url": "http://d2r9epyceweg5n.cloudfront.net/stores/001/321/783/products/102411-1abaad8a435f530b8e16734529272960-640-0.webp",
+        "precio":1500000
+    },
+
+    {
+        "marca":"Asus",
+        "modelo":"Gtx 1660s",
+        "capacidad":"6gb",
+        "url": "https://www.asus.com/media/global/products/bty4tn91cst5xmfg/P_setting_xxx_0_90_end_500.png",
+        "precio":150000
+    }
+]
